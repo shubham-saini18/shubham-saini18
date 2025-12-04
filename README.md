@@ -1,95 +1,88 @@
-<h1 align="center">Hi 👋, I'm Shubham Saini</h1>
-<h3 align="center">🚀 DevOps Engineer (2 YOE) | 📊 Aspiring Data Scientist | 🇮🇳 India</h3>
+<h1 align="center">Hey there 👋 I'm Shubham</h1>
 
----
-
-## 🌟 About Me  
-I’m a DevOps Engineer with nearly **2 years of hands-on experience** building CI/CD pipelines, automating cloud infrastructure, and managing modern containerized applications.
-
-Recently, I’ve stepped into the world of **Data Science & Machine Learning**, bridging DevOps + ML to become a future-ready **MLOps / AI-Driven DevOps Engineer**.
-
-I love:  
-- 🧠 Automating workflows  
-- ☁️ Working with cloud-native tools  
-- 📈 Learning and applying ML algorithms  
-- 🐧 Linux, Shell scripting, containers, and scalable architectures  
-- 🤖 Building AI-Augmented DevOps pipelines  
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🔧 DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,gitlab" height="45" />
-</p>
-
-### 🧱 Backend & Scripting
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,nodejs,fastapi,flask,bash" height="45" />
-</p>
-
-### 🧮 Data Science (Learning)
-<p>
-  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pandas,numpy,matplotlib" height="45" />
-</p>
-
-### 🗂 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" height="45" />
-</p>
-
-### 🧰 Other Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,nginx,postman" height="45" />
+<p align="center">
+  <strong>DevOps Engineer (~2 years)</strong> • <strong>Data Science Learner</strong> • <strong>Automation Addict</strong>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 Who Am I?
 
-<div align="center">
+I started my career in **DevOps**—messing with pipelines, fixing broken YAML at 2 AM, spinning containers, and making servers behave.  
+Now, I’m expanding into **Data Science**, because why not mix automation with a bit of intelligence?
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubham-saini18&show_icons=true&theme=radical" height="170" />
+I’m basically on a mission to become that person who can:
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shubham-saini18&theme=radical" height="170" />
-
-</div>
-
----
-
-## 🧬 DevOps × Data Science Journey
-
-✔️ **2 Years DevOps Experience**  
-✔️ Building CI/CD with *Jenkins, GitHub Actions, GitLab CI*  
-✔️ Deploying microservices on *AWS, Kubernetes (EKS), Docker, ECS*  
-✔️ Writing automation in *Python, Bash*  
-✔️ Now learning ML and moving toward **Data Engineering + MLOps**  
-✔️ Aim: Become a **Top 1% DevOps + ML Hybrid Engineer**
+- Build the infrastructure 🔧  
+- Automate the deployment 🚀  
+- Train the model 🧠  
+- Deploy the model again (because DevOps never ends) 🤝  
 
 ---
 
-## 🔗 Connect with Me
+## ⚡ What I Work With
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shubham-saini-437984145"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="mailto:sainishubham416@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+### 🌩️ DevOps & Cloud (My Comfort Zone)
+AWS • Docker • Kubernetes • Terraform • Jenkins  
+GitHub Actions • GitLab CI • Linux • Bash • Nginx  
+
+### 🧠 Data Science (Currently Leveling Up)
+Python • NumPy • Pandas • Matplotlib • Scikit-Learn  
+(Still fighting with TensorFlow… we’ll get there 😄)
+
+### 🧰 Other Tools I Like
+MySQL • MongoDB • Postgres • FastAPI • Postman  
+
+---
+
+## 🚀 A Little About My Journey
+
+- I automate things… and then automate more things.  
+- I enjoy turning complex deployments into one-click pipelines.  
+- I love clean architecture, clean code, and clean logs (rare).  
+- I’ve deployed microservices on AWS, EKS, and Dockerized setups.  
+- Recently fell into the world of ML, and it’s pretty fun.  
+- My end goal? **DevOps × AI = MLOps Engineer.**  
+
+---
+
+## 📊 GitHub by Vibes, Not Numbers (but here are numbers anyway)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-saini18&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-saini18&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 When I'm Not Working, This Snake Works for Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shubham-saini18/shubham-saini18/output/github-contribution-grid-snake.svg"/>
-</div>
-
----
-
-## ⭐ Fun Fact  
-I love to automate things so much that…  
-**I sometimes automate the things I shouldn’t automate 😉**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubham-saini18/shubham-saini18/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 ---
 
-### 🌟 If you like this profile, consider giving a star ⭐ to my repositories!  
+## 🧭 Currently Exploring
+
+- ML Algorithms & real-world ML problems  
+- Python for Data Science (deeply)  
+- How to break things in cloud… and then fix them elegantly  
+- Building my own DevOps + ML ecosystem  
+
+---
+
+## 📬 Let’s Connect
+
+- **LinkedIn:** www.linkedin.com/in/shubham-saini-437984145  
+- **Email:** sainishubham416@gmail.com  
+
+If you’re into DevOps, ML, automation, or just tech in general — say hi 👋
+
+---
+
+## ⭐ Final Note
+
+I don’t chase perfection —  
+I chase **progress, better pipelines, cleaner automation, and smarter systems**.
+
