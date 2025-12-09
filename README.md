@@ -45,7 +45,7 @@ flowchart TD
 <a href="https://docs.aws.amazon.com/" target="_blank">
   <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white" />
 </a>
-<a href=(https://kubernetes.io/) target="_blank">
+<a href="https://kubernetes.io/"target="_blank">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
