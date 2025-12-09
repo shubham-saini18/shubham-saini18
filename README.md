@@ -51,7 +51,9 @@ flowchart TD
 <a href="https://www.jenkins.io/"target="_blank">
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
 </a>
+<a href="https://docs.github.com/en/actionstarget"="_blank">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" />
+</a>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 
 <!-- Skill badges: Data Science -->
